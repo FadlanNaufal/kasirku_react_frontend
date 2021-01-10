@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar {
+  background-color: rgb(29, 93, 212);
+}
+
+.category-active {
+  font-weight: bold;
+  color: white;
+  background-color: rgb(29, 93, 212);
+}
